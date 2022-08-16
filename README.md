@@ -1,2 +1,2 @@
 # Validation-Form
-Validation Form using HTML / JS / Boostrap
+Simple Validation Form using HTML / JS / Boostrap
